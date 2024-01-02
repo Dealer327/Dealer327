@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div id='header' aligen='center'>
+<img src='https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif'>
+  
+</div>
 
 <!--
 **Dealer327/Dealer327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
