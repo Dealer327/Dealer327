@@ -1,13 +1,23 @@
 <div id='header' align='center'>
-<img src='https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif' width="100">
+<img src='https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif' width="200">
   
 </div>
-<div id="badges" align=center>
+<div align="center">
+  <h1>Привет меня зовут Козырев Руслан!   
+</h1></div>
+<h2>
+  
+<div id="badges">
+  - Написать мне можно сюда ---> 
   <a href="https://t.me/DealerEXP">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=blue&labelColor=white" width=120/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=blue&labelColor=white" width=85/>
   </a>
-
+  or
+  <a href="[empty.battle@yandex.ru](https://mail.yandex.ru/?uid=231643918)">
+    <img src="https://img.shields.io/badge/Yandex%20mail-orange?style=flat" width=85/>
+  </a>
 </div>
+  </h2>
 <!--
 **Dealer327/Dealer327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
