@@ -2,7 +2,12 @@
 <img src='https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif' width="100">
   
 </div>
+<div id="badges" align=center>
+  <a href="https://t.me/DealerEXP">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=blue&labelColor=white" width=120/>
+  </a>
 
+</div>
 <!--
 **Dealer327/Dealer327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
