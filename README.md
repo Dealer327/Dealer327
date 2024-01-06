@@ -16,15 +16,28 @@
   </a></br></br>
  <h2>
   <div align="left">
-:woman_technologist: Немного о себе :</br></br>
+:man_technologist: Немного о себе :</br></br>
   Я начинающий разработчик, основное направления backend - web приложений и разработка телеграм ботов разной сложности. Мой интерес в разработки это постоянное совершенствие своих навыков и покорение новых вершин!
  </h2></div>
 <h2>
  <div align="left">
-Мой стек технологий: 
+Мой стек технологий 
+  :hammer_and_wrench: :</br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width=35/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width=35/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width=35/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=35/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=35/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=35/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width=35/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=35/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width=35/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width=35/>
+  
   
   </div>
 </h2>
+
 
   
 <!--
