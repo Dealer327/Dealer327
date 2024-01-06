@@ -13,16 +13,20 @@
   </a>
  <a href="https://vk.com/sad1st007">
     <img src="https://img.shields.io/badge/Vk-blue?style=flat&logo=vk&logoColor=blue&labelColor=white" width=50/>
-  </a>
- </div>
- 
- <div align="left">
+  </a></br></br>
+ <h2>
+  <div align="left">
+:woman_technologist: Немного о себе :</br></br>
+  Я начинающий разработчик, основное направления backend - web приложений и разработка телеграм ботов разной сложности. Мой интерес в разработки это постоянное совершенствие своих навыков и покорение новых вершин!
+ </h2></div>
 <h2>
-Немного о себе:</br></br>
- Я начинающий разработчик, основное направления backend - web приложений и разработка телеграм ботов разной сложности. Мой интерес в разработки это постоянное совершенствие своих навыков и покорение новых вершин!
-  </h2>
-
+ <div align="left">
+Мой стек технологий: 
+  
   </div>
+</h2>
+
+  
 <!--
 **Dealer327/Dealer327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
